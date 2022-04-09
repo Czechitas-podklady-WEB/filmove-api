@@ -1,0 +1,28 @@
+{
+  "name": "filmove-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Czechitas-podklady-WEB/filmove-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Czechitas-podklady-WEB/filmove-api/issues"
+  },
+  "homepage": "https://github.com/Czechitas-podklady-WEB/filmove-api#readme"
+}
