@@ -1,2 +1,5 @@
 theme: just-the-docs
 title: Filmové API
+domain: czechitas-podklady-web.github.io
+url: https://czechitas-podklady-web.github.io
+baseurl: /filmove-api
